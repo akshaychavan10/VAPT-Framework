@@ -1,2 +1,3 @@
 # VAPT-Framework
-Machine Learning Based Threat Detection System.
+
+The VAPT (Vulnerability Assessment and Penetration Testing) Framework is an automated toolset designed to streamline the identification and exploitation of vulnerabilities in web applications, networks, and systems. By integrating popular tools like Nmap, OpenVAS, Metasploit, and OWASP ZAP, this framework automates the vulnerability scanning and penetration testing process. It features customizable reporting via Jinja2 templates and a modular structure to support diverse environments. Future enhancements include real-time threat intelligence integration and a web interface for easier access and management
